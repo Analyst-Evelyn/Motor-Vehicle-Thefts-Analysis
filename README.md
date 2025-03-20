@@ -16,9 +16,8 @@ Motor vehicle theft remains a persistent issue in New Zealand, affecting not onl
 4.  Provide data-driven recommendations – Suggest strategies for reducing vehicle theft based on key findings.
 
      
+📂 Dataset Description  
 
-
-📂 Dataset Description
 The dataset consists of multiple tables, including:
 
 stolen_vehicles – Details of stolen vehicles (type, model year, color, date stolen).  
