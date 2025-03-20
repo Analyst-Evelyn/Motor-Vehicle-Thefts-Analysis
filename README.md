@@ -13,7 +13,9 @@ Motor vehicle theft remains a persistent issue in New Zealand, affecting not onl
 
 3.  Assess the age of stolen vehicles – Investigate whether newer or older models are more frequently stolen.  
 
-4.  Provide data-driven recommendations – Suggest strategies for reducing vehicle theft based on key findings.  
+4.  Provide data-driven recommendations – Suggest strategies for reducing vehicle theft based on key findings.
+
+     
 
 
 📂 Dataset Description
