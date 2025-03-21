@@ -37,15 +37,28 @@ Recommended Analysis
 1. What day of the week are vehicles most and least often stolen?
    ![Image](
 
-2. What types of vehicles are most and least often stolen? Does this vary by region?
-   
+2.a What types of vehicles are most and least often stolen?  
+     (![TypeMostStolen 1](https://github.com/user-attachments/assets/a4aaf613-59cf-4ec2-a841-a1c2dde99d91)
 
-3. What is the average age of the vehicles that are stolen? Does this vary based on the vehicle type?
-    ![Image](![Avg 1](https://github.com/user-attachments/assets/2f721c04-c5bb-4124-8b91-179637642523)  
+2.b  Does this vary by region?     
+    (![Type 2](https://github.com/user-attachments/assets/4f43d71a-6947-4dd9-9055-dd311beb84f1)
+
+
+3.i What is the average age of the vehicles that are stolen? 
+    
    (![Avg 2](https://github.com/user-attachments/assets/6bfa1235-16e9-4bd5-851f-75ae603a9829)
 
-
+3. ii  Does this vary based on the vehicle type?
+    (![Avg 1](https://github.com/user-attachments/assets/2f721c04-c5bb-4124-8b91-179637642523) 
    
 
-5. Which regions have the most and least number of stolen vehicles? What are the characteristics of the regions?
+4.a Which regions have the most and least number of stolen vehicles?  
+(![Region 1](https://github.com/user-attachments/assets/b1b4273f-8cd7-4050-9a11-e86792287dd9)  
+
+4.b  What are the characteristics of the regions?  
+(![Region2](https://github.com/user-attachments/assets/e81ebfc0-9141-42e9-8b36-668e33a79c23)
+
+
+   
+7. What are the characteristics of the regions?
    
