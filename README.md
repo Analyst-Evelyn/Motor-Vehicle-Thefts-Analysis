@@ -66,9 +66,10 @@ Recommended Analysis
 
    
 5.  What is the total number of vehicles stolen?
+   
    (![Total no of cars](https://github.com/user-attachments/assets/ca0a0eac-4c9a-4ffe-89a7-42ce3f7ff24d)
 
-6. What modle year of cars are the most stolen ?
+7. What modle year of cars are the most stolen ?
    (![model stolen](https://github.com/user-attachments/assets/0e955937-ded8-4c4e-b751-68d028c154ea)
 
 
