@@ -43,7 +43,7 @@ Recommended Analysis
  ( ![year](https://github.com/user-attachments/assets/e726f58d-3d95-429c-8785-d248502e4f09)
 
 
-4. a What types of vehicles are most and least often stolen?   
+3. a What types of vehicles are most and least often stolen?   
 
   (![TypeMostStolen 1](https://github.com/user-attachments/assets/a4aaf613-59cf-4ec2-a841-a1c2dde99d91)
 
