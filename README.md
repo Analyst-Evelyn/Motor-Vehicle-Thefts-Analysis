@@ -35,9 +35,11 @@ This dataset was downloaded from Maven Analytics Playground [https://app.mavenan
 Recommended Analysis  
 
 1. What day of the week are vehicles most and least often stolen?
-   ![Image](
+   
+   (![Day](https://github.com/user-attachments/assets/d0a2c144-5651-43db-82c5-c34eab82d587)
 
-2. a What types of vehicles are most and least often stolen?   
+
+3. a What types of vehicles are most and least often stolen?   
 
 
   (![TypeMostStolen 1](https://github.com/user-attachments/assets/a4aaf613-59cf-4ec2-a841-a1c2dde99d91)
@@ -69,7 +71,7 @@ Recommended Analysis
    
    (![Total no of cars](https://github.com/user-attachments/assets/ca0a0eac-4c9a-4ffe-89a7-42ce3f7ff24d)
 
-7. What modle year of cars are the most stolen ?
+7. What model year of cars are the most stolen?
    (![model stolen](https://github.com/user-attachments/assets/0e955937-ded8-4c4e-b751-68d028c154ea)
 
 
