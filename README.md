@@ -31,3 +31,21 @@ make_details -  Detail description on the make of the various vehicles (make_id,
 This dataset was downloaded from Maven Analytics Playground [https://app.mavenanalytics.io/datasets] 
 
 ## 📊 Key Analyses & SQL Queries
+
+Recommended Analysis  
+
+1. What day of the week are vehicles most and least often stolen?
+   ![Image](
+
+2. What types of vehicles are most and least often stolen? Does this vary by region?
+   
+
+3. What is the average age of the vehicles that are stolen? Does this vary based on the vehicle type?
+    ![Image](![Avg 1](https://github.com/user-attachments/assets/2f721c04-c5bb-4124-8b91-179637642523)  
+   (![Avg 2](https://github.com/user-attachments/assets/6bfa1235-16e9-4bd5-851f-75ae603a9829)
+
+
+   
+
+5. Which regions have the most and least number of stolen vehicles? What are the characteristics of the regions?
+   
