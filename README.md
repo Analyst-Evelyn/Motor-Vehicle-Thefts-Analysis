@@ -81,13 +81,13 @@ This dataset was downloaded from Maven Analytics Playground [https://app.mavenan
 
    ## Recommendation
    
-   1. Enhancing Vehicle Security:
+   1.  Enhancing Vehicle Security:
 
      Vehicle owners should install GPS trackers and immobilizers to reduce  theft risk.
 
      Older vehicle models should be upgraded with modern security features.
 
-2. Regional Policy Changes:
+ 2. Regional Policy Changes:
 
      Law enforcement agencies should increase patrols in high-theft regions.
 
