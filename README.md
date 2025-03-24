@@ -1,12 +1,12 @@
-# Motor-Vehicle-Thefts-Analysis 🚗🔍
-## 🔍 Project Overview
+# Motor-Vehicle-Thefts-Analysis 
+##  Project Overview
 This project analyzes stolen vehicle data using MySQL and Power BI to uncover trends, patterns, and insights. The analysis explores vehicle characteristics, regional variations, and potential factors influencing theft rates.
 
-Problem Statement
+**Problem Statement**
 
 Motor vehicle theft remains a persistent issue in New Zealand, affecting not only individuals, but also insurance companies and law enforcement agencies. Understanding the patterns and trends associated with stolen vehicles is crucial for developing preventive measures and improving recovery efforts.T his project aims to uncover patterns in stolen vehicle data, analyze regional theft trends, and identify the most and least targeted vehicle types. By leveraging MySQL for data analysis and Power BI for visualization, I hope to generate actionable insights that help authorities and vehicle owners mitigate theft risks.  
 
-Project Objectives
+**Project Objectives**
 1.  Identify trends in stolen vehicle data – Analyze the most stolen vehicle types, colors, and model years.  
 
 2.  Determine regional variations in theft – Understand how theft rates vary by location, population, and density.  
@@ -16,7 +16,7 @@ Project Objectives
 4.  Provide data-driven recommendations – Suggest strategies for reducing vehicle theft based on key findings.
 
      
-📂 Dataset Description  
+##📂 Dataset Description  
 
 The dataset consists of multiple tables, including:
 
@@ -26,13 +26,13 @@ locations – Region, country, population, and density details.
 
 make_details -  Detail description on the make of the various vehicles (make_id, make_name, make_type)   
 
-## Data Source 🗄️  
+## Data Source.  
 
 This dataset was downloaded from Maven Analytics Playground [https://app.mavenanalytics.io/datasets] 
 
-## 📊 Key Analyses & SQL Queries
+## Key Analyses & SQL Queries
 
-Recommended Analysis  
+**Recommended Analysis  **
 
 1. What day of the week are vehicles most and least often stolen?
    
@@ -79,5 +79,22 @@ Recommended Analysis
    (![model stolen](https://github.com/user-attachments/assets/0e955937-ded8-4c4e-b751-68d028c154ea)
 
 
+   ## Recommendation
    
-   
+   1. Enhancing Vehicle Security:
+
+     Vehicle owners should install GPS trackers and immobilizers to reduce  theft risk.
+
+     Older vehicle models should be upgraded with modern security features.
+
+2. Regional Policy Changes:
+
+     Law enforcement agencies should increase patrols in high-theft regions.
+
+     Implementation of public vehicle registration databases to track stolen vehicles.
+
+3. Awareness & Prevention Measures:
+
+     Campaigns to educate vehicle owners on high-risk areas and security best practices.
+
+     Car dealerships should recommend security upgrades to buyers.
