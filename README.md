@@ -16,7 +16,7 @@ Motor vehicle theft remains a persistent issue in New Zealand, affecting not onl
 4.  Provide data-driven recommendations – Suggest strategies for reducing vehicle theft based on key findings.
 
      
-##📂 Dataset Description  
+## Dataset Description  
 
 The dataset consists of multiple tables, including:
 
@@ -80,19 +80,18 @@ This dataset was downloaded from Maven Analytics Playground [https://app.mavenan
 
 
    ## Recommendation
-   
-   1.  Enhancing Vehicle Security:
+1.  Enhancing Vehicle Security:
 
-     Vehicle owners should install GPS trackers and immobilizers to reduce  theft risk.
+     Vehicle owners should install GPS trackers and immobilizers to reduce theft risk.
 
      Older vehicle models should be upgraded with modern security features.
-
- 2. Regional Policy Changes:
+    
+2. Regional Policy Changes:
 
      Law enforcement agencies should increase patrols in high-theft regions.
 
      Implementation of public vehicle registration databases to track stolen vehicles.
-
+   
 3. Awareness & Prevention Measures:
 
      Campaigns to educate vehicle owners on high-risk areas and security best practices.
