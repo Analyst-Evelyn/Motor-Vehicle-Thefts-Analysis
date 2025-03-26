@@ -12,22 +12,4 @@
 10.    (![model stolen](https://github.com/user-attachments/assets/0e955937-ded8-4c4e-b751-68d028c154ea)
    
 
-1. 
-   ## Recommendation
-1.  Enhancing Vehicle Security:
 
-     Vehicle owners should install GPS trackers and immobilizers to reduce theft risk.
-
-     Older vehicle models should be upgraded with modern security features.
-    
-2. Regional Policy Changes:
-
-     Law enforcement agencies should increase patrols in high-theft regions.
-
-     Implementation of public vehicle registration databases to track stolen vehicles.
-   
-3. Awareness & Prevention Measures:
-
-     Campaigns to educate vehicle owners on high-risk areas and security best practices.
-
-     Car dealerships should recommend security upgrades to buyers.
