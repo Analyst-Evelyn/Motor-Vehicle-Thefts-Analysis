@@ -7,7 +7,7 @@ This project analyzes stolen vehicle data using MySQL and Power BI to uncover tr
 Motor vehicle theft remains a persistent issue in New Zealand, affecting not only individuals, but also insurance companies and law enforcement agencies. Understanding the patterns and trends associated with stolen vehicles is crucial for developing preventive measures and improving recovery efforts.T his project aims to uncover patterns in stolen vehicle data, analyze regional theft trends, and identify the most and least targeted vehicle types. By leveraging MySQL for data analysis and Power BI for visualization, I hope to generate actionable insights that help authorities and vehicle owners mitigate theft risks.  
 
 **Project Objectives**
-1.  Identify trends in stolen vehicle data – Analyze the most stolen vehicle types, colors, and model years.  
+1.  Identify trends in stolen vehicle data – Analyse the most stolen vehicle types, colours, and model years.  
 
 2.  Determine regional variations in theft – Understand how theft rates vary by location, population, and density.  
 
@@ -51,7 +51,7 @@ This dataset was downloaded from Maven Analytics Playground [https://app.mavenan
 ## Recommendation
 1.  Enhancing Vehicle Security:
 
-     Vehicle owners should install GPS trackers and immobilizers to reduce theft risk.
+     Vehicle owners should install GPS trackers and immobilisers to reduce theft risk.
 
      Older vehicle models should be upgraded with modern security features.
     
